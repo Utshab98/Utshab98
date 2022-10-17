@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Utshab98(Utshab Bardewa).
 - 👀 I’m interested in web development and cyber security...
 - 🌱 I’m currently learning Bsc.Csit
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking good opertunities in Information Technology..
+- 📫
 
 <!---
 Utshab98/Utshab98 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
