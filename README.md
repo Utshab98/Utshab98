@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Utshab98(Utshab Bardewa).
-- 👀 I’m interested in web development and cyber security...
+- 👀 I’m interested in web development and Blockchain(WEB3)  ...
 - 🌱 I’m currently learning Bsc.Csit
 - 💞️ I’m looking good opertunities in Information Technology..
 - 📫
