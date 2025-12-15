@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Utshab98(Utshab Bardewa).
-- 👀 I’m interested in web development and Blockchain(WEB3)  ...
-- 🌱 I’m currently learning Bsc.Csit
+- 👀 I’m interested in Computer Vision, NLP and web development  ...
+- 🌱 I’m currently learning Masters in Data science and Artificil intelligence and graduate of  Bsc.Csit
 - 💞️ I’m looking good opertunities in Information Technology..
 - 📫
 
