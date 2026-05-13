@@ -4,7 +4,7 @@
 🎓 Graduate of BSc. CSIT  
 
 ##  About Me
-- Passionate about Artificial Intelligence, Computer Vision, Natural Language Processing (NLP), and Web Development.
+- Passionate about Artificial Intelligence, Computer Vision,Precision Agriculture, Natural Language Processing (NLP), and Web Development.
 - Interested in building intelligent systems and real-world AI applications.
 - Currently exploring Deep Learning, Machine Learning, and AI-driven research.
 - Enthusiastic about research, innovation, and modern software technologies.
