@@ -1,10 +1,35 @@
-- 👋 Hi, I’m @Utshab98(Utshab Bardewa).
-- 👀 I’m interested in Computer Vision, NLP and web development  ...
-- 🌱 I’m currently learning Masters in Data science and Artificil intelligence and graduate of  Bsc.Csit
-- 💞️ I’m looking good opertunities in Information Technology..
-- 📫
+# Hi there 👋, I'm Utshab Bardewa
 
-<!---
-Utshab98/Utshab98 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎓 Master's Student in Data Science and Artificial Intelligence  
+🎓 Graduate of BSc. CSIT  
+
+##  About Me
+- Passionate about Artificial Intelligence, Computer Vision, Natural Language Processing (NLP), and Web Development.
+- Interested in building intelligent systems and real-world AI applications.
+- Currently exploring Deep Learning, Machine Learning, and AI-driven research.
+- Enthusiastic about research, innovation, and modern software technologies.
+
+##  Technical Interests
+- Computer Vision
+- Natural Language Processing (NLP)
+- Deep Learning
+- Machine Learning
+- Web Development
+- Data Science
+
+##  Currently Learning
+- Advanced Deep Learning Architectures
+- Multi-Modal AI Systems
+- AI for Precision Agriculture
+- Large Language Models (LLMs)
+
+##  Looking For
+- Research collaborations
+- Internship opportunities
+- AI/ML and Software Development opportunities
+
+##  Connect With Me
+- GitHub: https://github.com/Utshab98
+
+---
+*"Turning data into intelligent solutions through AI and innovation."*
